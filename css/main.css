@@ -1,0 +1,36 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "MONO" 1;
+    background-color: #191816;
+    color: #676872;
+    z-index: -2;
+}
+h1 {
+    color: white;
+}
+.center-content {
+    text-align: center;
+    z-index: 1;
+}
+#particles-js {
+    z-index: -1;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+}
+a {
+    color: gray;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
