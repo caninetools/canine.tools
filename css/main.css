@@ -5,7 +5,7 @@ html {
     margin: 0;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     font-family: "Sono", monospace;
     font-optical-sizing: auto;
     font-style: normal;
@@ -20,6 +20,8 @@ h1 {
 .center-content {
     text-align: center;
     z-index: 1;
+    margin-top: 5%;
+    width: 40%;
 }
 #particles-js {
     z-index: -1;
