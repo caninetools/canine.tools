@@ -1,14 +1,14 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "canine.tools",
+    "short_name": "canine.tools",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "https://canine.tools/images/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png",
+            "src": "https://canine.tools/images/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
