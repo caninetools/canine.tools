@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>canine.tools</title>
+        <title>canine.tools - System Stats</title>
         <meta name="theme-color" content="#346eeb">
         <link rel="apple-touch-icon" sizes="180x180" href="https://canine.tools/images/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="https://canine.tools/images/favicon-32x32.png">
@@ -36,35 +36,19 @@
         <div class="center-content">
             <div class="header">
                 <img src="https://canine.tools/images/wolf.svg" alt="Wolf" class="logo">
-                <h1>canine.tools</h1>
+                <h1>System Stats</h1>
             </div>
-            <p>Collection of open source web apps.</p>
-            <p>This server is hosted in the United States with a 5Gb connection. You can view system status <a href="https://status.canine.tools/">here</a>.</p>
-            <p>If any service has an issue, or you want a service hosted, contact the admin: <a href="mailto:hyper@canine.tools">hyper@canine.tools</a>.</p>
-            <p>You can read the privacy policy <a href="/policy/">here</a>.</p>
-            <hr>
-            <h2>Services</h2>
-            <p>We don't modify the source code of each service, unless specified.</p>
-            <h3>cobalt</h3>
-            <p>Fast & simple social media downloader. Supported services are <a href="https://github.com/imputnet/cobalt?tab=readme-ov-file#supported-services">here</a>.</p>
-            <div class="button-group">
-                <a href="https://cobalt.canine.tools" class="button">cobalt.canine.tools</a><a href="https://github.com/imputnet/cobalt" class="button">Source Code</a>
-            </div>
-            <h3>PrivateBin</h3>
-            <p>Encrypted (in the browser) pastebin service.</p>
-            <div class="button-group">
-                <a href="https://paste.canine.tools" class="button">paste.canine.tools</a><a href="https://github.com/PrivateBin/PrivateBin" class="button">Source Code</a>
-            </div>
-            <h3>mozhi</h3>
-            <p>Frontend for translation engines.</p>
-            <div class="button-group">
-                <a href="https://mozhi.canine.tools/" class="button">mozhi.canine.tools</a><a href="https://codeberg.org/aryak/mozhi" class="button">Source Code</a>
-            </div>
-            <h3>Stirling PDF</h3>
-            <p>PDF manipulation tool.</p>
-            <div class="button-group">
-                <a href="https://pdf.canine.tools/" class="button">pdf.canine.tools</a><a href="https://github.com/Stirling-Tools/Stirling-PDF" class="button">Source Code</a>
-            </div>
+            <p>This page details the server's stats for fun.</p>
+            <h3>CPU Usage (hourly)</h3>
+            <img src="https://api.canine.tools/cpu" alt="cpu usage" class="stats-image">
+            <h3>Memory Usage (hourly)</h3>
+            <img src="https://api.canine.tools/memory" alt="cpu usage" class="stats-image">
+            <h3>Network Usage (overall)</h3>
+            <img src="https://api.canine.tools/network/overall" alt="cpu usage" class="stats-image">
+            <h3>Network Usage (hourly)</h3>
+            <img src="https://api.canine.tools/network/hourly" alt="cpu usage" class="stats-image">
+            <h3>Network Usage (top 5)</h3>
+            <img src="https://api.canine.tools/network/top" alt="cpu usage" class="stats-image">
         </div>
         <script src="https://canine.tools/js/particles.min.js"></script>
         <script src="https://canine.tools/js/app.js"></script>
