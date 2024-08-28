@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<blockquote>
+    <h2>{{ page.title }}</h2>
+    <p>{{ page.date | date: "%-d %B %Y" }} - {{ page.content | reading_time }}</p>
+    <p>{{ page.description }}</p>
+</blockquote>
+{{ content }}

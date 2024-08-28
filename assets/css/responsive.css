@@ -1,0 +1,6 @@
+@media only screen and (max-width: 480px) {
+	.caption {
+		font-size: 12px;
+		padding: 5px;
+	}
+}

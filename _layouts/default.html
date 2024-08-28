@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+{% include navbar.html %}
+{% if page.layout != 'home' %}
+<h2>{{ page.title }}</h2>
+{% endif %}
+{{ content }}
+{% if page.url != "/" %}
+{% include footer.html %}
+{% endif %}
+</body>
+</html>

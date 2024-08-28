@@ -1,0 +1,98 @@
+.navbar-icon {
+    width: 155px;
+    height: 155px;
+    overflow: hidden;
+}
+.navbar-icon img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.thumbnail {
+    display: block;
+}
+.thumbnail img {
+    width: auto;
+}
+.caption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+.art-blocks {
+    text-align: center;
+}
+.art-block {
+    position: relative;
+    display: inline-block;
+    width: calc(60%);
+    margin: 0 5px 5px 0;
+    vertical-align: top;
+}
+header {
+    margin-bottom: 1rem;
+}
+.navigation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.navigation button {
+    margin-bottom: 10px;
+}
+
+/* This footer was taken from https://github.com/xz/new.css/pull/72 */
+footer {
+    background: var(--nc-bg-2);
+    border-top: 1px solid var(--nc-bg-3);
+    padding: 2rem 1.5rem;
+
+    /* This sets the right and left margins to cancel out the body's margins. It's width is still the same, but the background stretches across the page's width. */
+    margin: 2rem calc(0px - (50vw - 50%)) -2rem;
+    padding-left: calc(50vw - 50%);
+    padding-right: calc(50vw - 50%);
+}
+
+footer h1,
+footer h2,
+footer h3 {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+footer > *:first-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+footer > *:last-child {
+    margin-top: 0;
+}
+.post-image {
+    text-align: center;
+}
+.button-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.button {
+    border: 0.5px solid #fff;
+    padding: 10px;
+    background-color: #191919;
+    color: #fff;
+}
+.button:hover {
+    text-decoration: none;
+    background-color: #1e1e1e;
+}
