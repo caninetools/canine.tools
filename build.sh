@@ -16,9 +16,8 @@ recursive_minify() {
         fi
     done
 }
-npm install html-minifier -g
-# Compile the site
-bundle install
+export GEM_HOME="$HOME/gems"
+export PATH="$HOME/gems/bin:$PATH"
 # Set the target environment
 export JEKYLL_ENV=production
 echo "Running: $JEKYLL_ENV"
