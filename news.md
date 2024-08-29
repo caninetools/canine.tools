@@ -5,6 +5,10 @@ description: "canine.tools news & updates."
 permalink: /news/
 ---
 ### August 27, 2024
+canine.tools is no longer proxied via Cloudflare. I made this decision to remove it so you are accessing the server directly.
+I also added a new service, [breeze.canine.tools](https://breeze.canine.tools).
+
+### August 27, 2024
 New website, once again. I decided to make a new homepage to better talk about this site.
 I also added a new service: [it-tools.canine.tools](https://it-tools.canine.tools/).
 

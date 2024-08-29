@@ -9,6 +9,7 @@ These are all services hosted. No source code was modified, unless specified.
 ### Frontends
 * [redlib.canine.tools](https://redlib.canine.tools/) - Private frontend for Reddit. [Source code](https://github.com/redlib-org/redlib).
 * [read.canine.tools](https://read.canine.tools/) - Private frontend for Goodreads. [Source code](https://github.com/nesaku/BiblioReads).
+* [breeze.canine.tools](https://breeze.canine.tools/) - Private frontend for Fandom. [Source code](https://gitdab.com/cadence/breezewiki).
 
 ### Utils
 * [cobalt.canine.tools](https://cobalt.canine.tools/) - Fast & simple social media downloader. [Source code](https://github.com/imputnet/cobalt).
