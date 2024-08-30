@@ -4,7 +4,10 @@ title: "Privacy Policy"
 description: "Privacy policy information about canine.tools services."
 permalink: /privacy/
 ---
-These are terms users must follow when accessing any services provided by canine.tools. This was last updated 8/29/2024. Most of this was taken from [tux.pizza](https://tux.pizza).
+These are terms users must follow when accessing any services provided by canine.tools. This was last updated 8/30/2024. Most of this was taken from [tux.pizza](https://tux.pizza).
+
+### tl;dr
+You are responsible for all content you share. You hold the rights to the content. By submitting content to canine.tools, you give us the right to display and distribute it for that application. You are responsible for the legality of your content. The data we store is only needed for services to run. NGINX logs collect what IP address visits what site. The content itself in each application is private. These logs are rotated and deleted once a week. No data is shared with other parties.
 
 ### Content
 On Services that allows you to post, link and otherwise make available content, you grant us the right and license to display and distribute your content on or through that Service (including via applications). We may format your content for display throughout the Service, but we will not edit or revise the substance of your content itself. The displaying and distribution of your content happens strictly only according to the visibility rules you have set for the content. We will not modify the visibility of the content you have set.
@@ -17,16 +20,19 @@ You are responsible for the content that you make available to our Services, inc
 In no event will canine.tools be liable to you or any third party for any special, indirect, incidental, exemplary or consequential damages of any kind arising out of or in connection with our Services and content included on or otherwise made available to you through our Services.
 
 ### Your Data
-On this domain only, we utilize [Umami](https://umami.is/) (self hosted) for analytics. Umami does not require any type of cookies.
+On this site only, we utilize [Umami](https://umami.is/) (self hosted) for analytics. Umami does not require any type of cookies. This is used to analyze how many users visit the home site. These analytics are NOT included in any service.
 
-Other data being collected is via NGINX, our server software. This data includes your IP address & which pages you are accessing. This data is not accessible via outside the owner of canine.tools. Logs are rotated and deleted. This data is used for analytics.
+Other data being collected is via NGINX, our server software. This data includes your IP address, user agent, referrer, status codes and what pages you visit. This data is not accessible via outside the owner of canine.tools. Logs are rotated and deleted once a week. This data is used for analytics & security.
 
-### PrivateBin
+#### PrivateBin
 By using the PrivateBin service, you are providing us with content you submit to the site. This data is encrypted on your end only, and we do not have access to the content of each paste unless you provide the decryption key.
 
 Only the encrypted contents are stored via MySQL on the same server.
 
-### Chibisafe
-By using the Chibisafe service, you are providing use with a username and password.
+#### Chibisafe
+By using the Chibisafe service, you are providing us with a username and password.
 
-When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse. You are freely to have all data removed from this service if you wish.
+When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse.
+
+### Data Removal
+If you wish to have all your data removed from canine.tools, please contact me at `hyper@canine.tools`. Please provide me with any data you want removed.

@@ -10,6 +10,7 @@ These are all services hosted. No source code was modified, unless specified.
 * [redlib.canine.tools](https://redlib.canine.tools/) - Private frontend for Reddit. [Source code](https://github.com/redlib-org/redlib).
 * [read.canine.tools](https://read.canine.tools/) - Private frontend for Goodreads. [Source code](https://github.com/nesaku/BiblioReads).
 * [breeze.canine.tools](https://breeze.canine.tools/) - Private frontend for Fandom. [Source code](https://gitdab.com/cadence/breezewiki).
+* [overflow.canine.tools](https://overflow.canine.tools/) - Private frontend for StackOverflow. [Source code](https://github.com/httpjamesm/AnonymousOverflow).
 
 ### Utils
 * [cobalt.canine.tools](https://cobalt.canine.tools/) - Fast & simple social media downloader. [Source code](https://github.com/imputnet/cobalt).
@@ -18,6 +19,7 @@ These are all services hosted. No source code was modified, unless specified.
 * [safe.canine.tools](https://safe.canine.tools/) - File uploader and host. Currently invite only, please contact the admin to request an account. [Source code](https://github.com/chibisafe/chibisafe).
 * [search.canine.tools](https://search.canine.tools/) - Private search engine, uses results from multiple engines without any tracking. [Source code](https://github.com/searxng/searxng).
 * [it-tools.canine.tools](https://it-tools.canine.tools/) - Useful tools for developer and people working in IT. [Source code](https://github.com/CorentinTh/it-tools).
+* [send.canine.tools](https://send.canine.tools/) - Simple & private file sharing. [Source code](https://github.com/timvisee/send).
 
 ### Translators
 * [mozhi.canine.tools](https://mozhi.canine.tools/) - Frontend for translation engines. [Source code](https://codeberg.org/aryak/mozhi).
