@@ -12,6 +12,8 @@ These are all services hosted. No source code was modified, unless specified.
 * [breeze.canine.tools](https://breeze.canine.tools/) - Private frontend for Fandom. [Source code](https://gitdab.com/cadence/breezewiki).
 * [overflow.canine.tools](https://overflow.canine.tools/) - Private frontend for StackOverflow. [Source code](https://github.com/httpjamesm/AnonymousOverflow).
 * [safetwitch.canine.tools](https://safetwitch.canine.tools/) - Private frontend for Twitch. [Source code](https://codeberg.org/SafeTwitch/safetwitch).
+* [rimgo.canine.tools](https://rimgo.canine.tools/) - Private frontend for Imgur. [Source code](https://codeberg.org/rimgo/rimgo).
+* [quetre.canine.tools](https://quetre.canine.tools/) - Private frontend for Quora. [Source code](https://github.com/zyachel/quetre).
 
 ### Utils
 * [cobalt.canine.tools](https://cobalt.canine.tools/) - Fast & simple social media downloader. [Source code](https://github.com/imputnet/cobalt).
