@@ -4,6 +4,11 @@ title: "News"
 description: "canine.tools news & updates."
 permalink: /news/
 ---
+### August 31, 2024
+I changed the webserver settings to be a bit more secure, hopefully to prevent bots and what not.
+
+I also added 3 new services: [safetwitch.canine.tools](https://safetwitch.canine.tools/), [rimgo.canine.tools](https://rimgo.canine.tools/), and [quetre.canine.tools](https://quetre.canine.tools/).
+
 ### August 30, 2024
 I added a new [FAQ]({{ site.url }}/faq) page.
 
