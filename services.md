@@ -11,6 +11,7 @@ These are all services hosted. No source code was modified, unless specified.
 * [read.canine.tools](https://read.canine.tools/) - Private frontend for Goodreads. [Source code](https://github.com/nesaku/BiblioReads).
 * [breeze.canine.tools](https://breeze.canine.tools/) - Private frontend for Fandom. [Source code](https://gitdab.com/cadence/breezewiki).
 * [overflow.canine.tools](https://overflow.canine.tools/) - Private frontend for StackOverflow. [Source code](https://github.com/httpjamesm/AnonymousOverflow).
+* [safetwitch.canine.tools](https://safetwitch.canine.tools/) - Private frontend for Twitch. [Source code](https://codeberg.org/SafeTwitch/safetwitch).
 
 ### Utils
 * [cobalt.canine.tools](https://cobalt.canine.tools/) - Fast & simple social media downloader. [Source code](https://github.com/imputnet/cobalt).
