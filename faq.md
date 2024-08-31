@@ -16,6 +16,9 @@ This server is located in the United States. The main IP of the server is `45.90
 
 I'm looking into a dedicated machine in the future.
 
+### Why am I getting blocked?
+I block common user agents from accessing all services. If you want to not be blocked, please set a proper user agent.
+
 ### How can I trust you?
 You can't. I follow best practices and try my best to make everything private. Be cautious when using services with personal information.
 
