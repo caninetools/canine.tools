@@ -1,6 +1,19 @@
-@media only screen and (max-width: 480px) {
-	.caption {
-		font-size: 12px;
-		padding: 5px;
-	}
+@media screen and (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        display: none;
+    }
+    .menu-toggle {
+        display: block;
+    }
+    nav.active ul {
+        display: flex;
+    }
+	nav li {
+        width: 100%;
+    }
+    nav li a {
+        white-space: normal;
+    }
 }
