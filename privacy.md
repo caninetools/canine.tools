@@ -35,4 +35,4 @@ By using the Chibisafe service, you are providing us with a username and passwor
 When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse.
 
 ### Data Removal
-If you wish to have all your data removed from canine.tools, please contact me at `hyper@canine.tools`. Please provide me with any data you want removed.
+If you wish to have all your data removed from canine.tools, please contact me at `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)). Please provide me with any data you want removed.

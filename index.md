@@ -30,4 +30,4 @@ These are the frontends and services we provide. We're always looking to grow an
 * [mozhi.canine.tools](https://mozhi.canine.tools/) - Frontend for translation engines. [Source code](https://codeberg.org/aryak/mozhi).
 
 ### Contact
-The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools`.
+The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)).
