@@ -1,13 +1,33 @@
 ---
 layout: default
-title: "canine.tools"
+title: "Welcome!"
 description: "Collection of open source web apps for canines and all!"
 ---
-## Home
-canine.tools is a collection of open source web apps for canines and all to use. We host frontends & services.
+## Welcome!
+canine.tools is a collection of open source web apps for canines and all to use. We host frontends & services. We are LGBTQ+ friendly and accept all!
 
 ### Services
-You can find what servers we host on the [services page]({{ site.url }}/services).
+These are the frontends and services we provide. We're always looking to grow and expand more!
+#### Frontends
+* [redlib.canine.tools](https://redlib.canine.tools/) - Private frontend for Reddit. [Source code](https://github.com/redlib-org/redlib).
+* [read.canine.tools](https://read.canine.tools/) - Private frontend for Goodreads. [Source code](https://github.com/nesaku/BiblioReads).
+* [breeze.canine.tools](https://breeze.canine.tools/) - Private frontend for Fandom. [Source code](https://gitdab.com/cadence/breezewiki).
+* [overflow.canine.tools](https://overflow.canine.tools/) - Private frontend for StackOverflow. [Source code](https://github.com/httpjamesm/AnonymousOverflow).
+* [safetwitch.canine.tools](https://safetwitch.canine.tools/) - Private frontend for Twitch. [Source code](https://codeberg.org/SafeTwitch/safetwitch).
+* [rimgo.canine.tools](https://rimgo.canine.tools/) - Private frontend for Imgur. [Source code](https://codeberg.org/rimgo/rimgo).
+* [quetre.canine.tools](https://quetre.canine.tools/) - Private frontend for Quora. [Source code](https://github.com/zyachel/quetre).
+
+#### Utils
+* [cobalt.canine.tools](https://cobalt.canine.tools/) - Fast & simple social media downloader. [Source code](https://github.com/imputnet/cobalt).
+* [paste.canine.tools](https://paste.canine.tools/) - Encrypted (in the browser) pastebin service. [Source code](https://github.com/PrivateBin/PrivateBin).
+* [pdf.canine.tools](https://pdf.canine.tools/) - PDF manipulation tool. [Source code](https://github.com/Stirling-Tools/Stirling-PDF).
+* [safe.canine.tools](https://safe.canine.tools/) - File uploader and host. Currently invite only, please contact the admin to request an account. [Source code](https://github.com/chibisafe/chibisafe).
+* [search.canine.tools](https://search.canine.tools/) - Private search engine, uses results from multiple engines without any tracking. [Source code](https://github.com/searxng/searxng).
+* [it-tools.canine.tools](https://it-tools.canine.tools/) - Useful tools for developer and people working in IT. [Source code](https://github.com/CorentinTh/it-tools).
+* [send.canine.tools](https://send.canine.tools/) - Simple & private file sharing. [Source code](https://github.com/timvisee/send).
+
+#### Translators
+* [mozhi.canine.tools](https://mozhi.canine.tools/) - Frontend for translation engines. [Source code](https://codeberg.org/aryak/mozhi).
 
 ### Contact
-You can contact the admin for help, issues, or to chat at `hyper@canine.tools`.
+The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools`.
