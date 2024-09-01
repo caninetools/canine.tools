@@ -21,6 +21,7 @@ header h1 {
     padding: 10px;
     cursor: pointer;
     font-size: 15px;
+    -webkit-tap-highlight-color: transparent;
 }
 .menu-toggle:active {
     background-color: #555;
