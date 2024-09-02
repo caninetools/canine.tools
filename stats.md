@@ -15,8 +15,11 @@ This page details the server's stats for fun. Graphs are made with vnstati and R
 ### Network Usage (overall)
 ![Network Usage (overall)](https://api.canine.tools/network/overall)
 
+### Network Usage (monthly)
+![Network Usage (monthly)](https://api.canine.tools/network/monthly)
+
 ### Network Usage (hourly)
 ![Network Usage (hourly)](https://api.canine.tools/network/hourly)
 
-### Network Usage (top 5 days)
-![Network Usage (top 5 days)](https://api.canine.tools/network/top)
+### Network Usage (top 10 days)
+![Network Usage (top 10 days)](https://api.canine.tools/network/top)
