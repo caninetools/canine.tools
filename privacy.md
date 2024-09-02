@@ -24,6 +24,11 @@ On this site only, we utilize [Umami](https://umami.is/) (self hosted) for analy
 
 Other data being collected is via NGINX, our server software. This data includes your IP address, user agent, referrer, status codes and what pages you visit. This data is not accessible via outside the owner of canine.tools. Logs are rotated and deleted once a week. This data is used for analytics & security.
 
+Services that require data storage is keep local and backed up regularly. This data is not shared with anyone, unless requested by law enforcement.
+
+### Law Enforcement
+In the event law enforcement contacts me, I will comply with their requests. This server is hosted in the United States.
+
 #### PrivateBin
 By using the PrivateBin service, you are providing us with content you submit to the site. This data is encrypted on your end only, and we do not have access to the content of each paste unless you provide the decryption key.
 

@@ -21,5 +21,6 @@ export PATH="$HOME/gems/bin:$PATH"
 # Set the target environment
 export JEKYLL_ENV=production
 echo "Running: $JEKYLL_ENV"
+git pull
 bundle exec jekyll build
 recursive_minify "_site"
