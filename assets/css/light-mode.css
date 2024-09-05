@@ -1,0 +1,8 @@
+@media (prefers-color-scheme: light) {
+    header h1, nav li a {
+      color: black;
+    }
+    .menu-toggle {
+        background-color: #555;
+    }
+}
