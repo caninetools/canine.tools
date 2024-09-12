@@ -4,7 +4,7 @@ title: "Welcome!"
 description: "Collection of open source web apps for canines and all!"
 ---
 ## Welcome!
-canine.tools is a collection of open source web apps for canines and all to use. We host frontends & services. We are LGBTQ+ friendly and accept all!
+canine.tools is a collection of open source web apps for all to use. We host frontends & services. We are LGBTQ+ friendly and accept all!
 
 ### Services
 These are the frontends and services we provide. We're always looking to grow and expand more!

@@ -8,16 +8,16 @@ permalink: /faq/
 canine.tools is a collection of open source and private frontends and services. canine.tools is furry fandom themed. We are LGBTQ+ friendly and accept all!
 
 ### Server info?
-This server is located in the United States. The main IP of the server is `45.90.12.117`.
+This server is located in the United States, specifically east coast. The main IPs of the server are `45.90.12.117` and `2a0b:64c0:2::7e`.
 * Debian 12
 * Intel Xeon Gold 6152 (2.095GHz)
 * 10GB Ram
 * 5Gbit connection
 
-I'm looking into a dedicated machine in the future.
+Backups are done every hour to a different service. You can run a [speedtest](https://speedtest.canine.tools) from you to the server to see your connection to the server. It's not 100% accurate, but it exists.
 
 ### Why am I getting blocked?
-I block certain (mostly default) user agents from accessing all services. If you want to not be blocked, please set a proper user agent when using software like curl. I block these things because this server gets hit hard with bots.
+This server has protections for all services to prevent bots & abuse.
 
 ### How can I trust you?
 You can't. I follow best practices and try my best to make everything private. Be cautious when using services with personal information.
