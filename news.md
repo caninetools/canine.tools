@@ -4,6 +4,9 @@ title: "News"
 description: "canine.tools news & updates."
 permalink: /news/
 ---
+### September 16, 2024
+I've hardened the webserver for all services due to our mozhi's API getting spammed. It looks like an attempt to DDoS by spamming the API with random text it finds online. It went on for about 2 hours before I caught on and started to block it. Please contact me if you're getting blocked for some reason still. 
+
 ### August 31, 2024
 I changed the webserver settings to be a bit more secure, hopefully to prevent bots and what not. I also updated the site design a lot.
 
