@@ -1,5 +1,6 @@
 body {
     font-family: monospace;
+    max-width: 850px;
 }
 header {
     display: flex;
@@ -66,34 +67,6 @@ nav li a:active {
 nav li a:focus {
     background-color: #444;
     color: white;
-}
-.thumbnail {
-    display: block;
-}
-.thumbnail img {
-    width: auto;
-}
-.caption {
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: #fff;
-    padding: 10px;
-    font-size: 20px;
-    text-align: center;
-    width: 100%;
-    box-sizing: border-box;
-}
-.art-blocks {
-    text-align: center;
-}
-.art-block {
-    position: relative;
-    display: inline-block;
-    width: calc(60%);
-    margin: 0 5px 5px 0;
-    vertical-align: top;
 }
 header {
     margin-bottom: 1rem;
