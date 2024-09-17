@@ -39,5 +39,11 @@ By using the Chibisafe service, you are providing us with a username and passwor
 
 When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse.
 
+#### Vaultwarden
+By using the Vaultwarden service, you are providing us with an email and an optional account username. This information is accessible only locally and will never be shared or used out of the context or your account. All passwords for this service are hashed, and cannot be easily decrypted via a database breach. All other account information is encrypted using your password, and cannot be accessed by anyone unless they obtain your password or can decrypt the database.
+
+#### Vikunja
+By using the Vikunja service, you are providing us with an email and an account username. This information is accessible only locally and will never be shared or used out of the context or your account. Data for this service is not end-to-end encrypted, and can be accessed via the local database including Namespaces, Lists, Teams, etc. This data will never be sold or given away to anyone.
+
 ### Data Removal
 If you wish to have all your data removed from canine.tools, please contact me at `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)). Please provide me with any data you want removed.

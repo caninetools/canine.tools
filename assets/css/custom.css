@@ -146,13 +146,49 @@ footer > *:last-child {
     justify-content: flex-start;
     flex-direction: row;
 }
-.button {
+button {
     border: 0.5px solid #fff;
     padding: 10px;
     background-color: #191919;
     color: #fff;
 }
-.button:hover {
+button:hover {
     text-decoration: none;
     background-color: #1e1e1e;
+}
+a button {
+    background-color: #313131;
+}
+a button:hover {
+    background-color: #555;
+}
+.card-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.card {
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: calc(33.333% - 40px);
+    background-color: #191919;
+    box-sizing: border-box;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card-container {
+    padding: 16px;
+}
+.card-container h4 {
+    padding: 0;
+    white-space: nowrap;
+    text-align: center;
+}
+.card-container button {
+    margin: 5px;
+}
+.card-buttons {
+    text-align: center;
 }
