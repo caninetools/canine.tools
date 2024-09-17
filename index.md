@@ -170,4 +170,4 @@ Different tools and services that aren't a frontend to another service.
 </div>
 
 ### Contact
-The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)).
+The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)). You can also contact me on <a rel="me" href="https://bark.lgbt/@caninetools">Mastodon</a>.
