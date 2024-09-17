@@ -170,11 +170,18 @@ a button:hover {
     gap: 10px;
 }
 .card {
-    flex: 1 1 calc(33.333% - 40px);
-    max-width: calc(33.333% - 40px);
+    flex: 1 1 calc(40.333% - 40px);
+    max-width: calc(40.333% - 40px);
     background-color: #191919;
     box-sizing: border-box;
+    border-radius: 10px;
+    position: relative;
+    border-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet) 1;
+    border-width: 4px;
+    border-style: solid;
+    overflow:hidden;
 }
+
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
