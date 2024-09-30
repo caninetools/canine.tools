@@ -4,6 +4,11 @@ title: "News"
 description: "canine.tools news & updates."
 permalink: /news/
 ---
+### September 30, 2024
+Small but noticeable change, there is a new logo! The icon/favicon for canine.tools comes from <a href="https://mutant.tech/">Mutant Standard emoji</a>, which are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"">CC BY-NC-SA 4.0 International</a>. Please give them some love and support.
+
+canine.tools has been running for 2 months now smoothly, looking for a great future!
+
 ### September 16, 2024
 I've hardened the webserver for all services due to our mozhi's instance API getting spammed. It looks like an attempt to DDoS by spamming the API with random text it finds online. It went on for about 2 hours before I caught on and started to block it. If you end up getting blocked but you're a real user, please contact me!
 
