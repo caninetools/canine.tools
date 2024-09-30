@@ -5,7 +5,7 @@ description: "canine.tools news & updates."
 permalink: /news/
 ---
 ### September 30, 2024
-Small but noticeable change, there is a new logo! The icon/favicon for canine.tools comes from <a href="https://mutant.tech/">Mutant Standard emoji</a>, which are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"">CC BY-NC-SA 4.0 International</a>. Please give them some love and support.
+Small but noticeable change, there is a new logo! The icon/favicon for canine.tools comes from <a href="https://mutant.tech/">Mutant Standard emoji</a>, which are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International</a>. Please give them some love and support.
 
 canine.tools has been running for 2 months now smoothly, looking for a great future!
 
