@@ -154,7 +154,6 @@ a button:hover {
     border-style: solid;
     overflow:hidden;
 }
-
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -171,4 +170,7 @@ a button:hover {
 }
 .card-buttons {
     text-align: center;
+}
+.icon {
+    margin-bottom: 0;
 }
