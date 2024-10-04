@@ -11,6 +11,8 @@ These are *general* rules to follow. However, I can make my own decisions for co
 ### Community Rules
 * We are a welcoming service, please do not harass or bully anyone.
 * No discrimination against race, religion, nationality, sexual orientation, or gender.
+* No nazi, terrorism, or extreme political content.
+* Content that the admin does not see fit for this service.
 
 ### Content Rules
 * Do not post or store illegal content on canine.tools. If you want a private service for that, don't use this site.
@@ -19,5 +21,5 @@ These are *general* rules to follow. However, I can make my own decisions for co
 * No extreme gore or hate speech allowed.
 
 ### Network Rules
-* Do not disrupt canine.tools services with malicious intent.
+* Do not disrupt canine.tools services with malicious intent. This includes mass requests to any of our services.
 * No mass scraping or bots.

@@ -4,7 +4,7 @@ title: "Privacy Policy"
 description: "Privacy policy information about canine.tools services."
 permalink: /privacy/
 ---
-These are terms users must follow when accessing any services provided by canine.tools. This was last updated 09/17/2024. Most of this was taken from [tux.pizza](https://tux.pizza).
+These are terms users must follow when accessing any services provided by canine.tools. This was last updated 10/04/2024. Most of this was taken from [tux.pizza](https://tux.pizza).
 
 ### tl;dr
 You are responsible for all content you share. You hold the rights to the content. By submitting content to canine.tools, you give us the right to display and distribute it for that application. You are responsible for the legality of your content. The data we store is only needed for services to run. NGINX logs collect what IP address visits what site. The content itself in each application is private. These logs are rotated and deleted once a week. No data is shared with other parties.
@@ -40,7 +40,7 @@ By using the PrivateBin service, you are providing us with content you submit to
 Only the encrypted contents are stored via MySQL on the same server. This data is backed up, but we have no way to decrypt pastes.
 
 #### Chibisafe
-By using the Chibisafe service, you are providing us with a username and password.
+By using the Chibisafe service, you are providing us with a username.
 
 When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse. This data is backed up and stored encrypted.
 
@@ -49,6 +49,9 @@ By using the Vaultwarden service, you are providing us with an email and an opti
 
 #### Vikunja
 By using the Vikunja service, you are providing us with an email and an account username. This information is accessible only locally and will never be shared or used out of the context or your account. Data for this service is not end-to-end encrypted, and can be accessed via the local database including Namespaces, Lists, Teams, etc. This data will never be sold or given away to anyone. This data is backed up and stored encrypted.
+
+#### LinkStack
+By using the LinkStack service, you are providing us with an email and an account username. Your email address is kept locally and used for password resets and email notifications. Your username is public. All content you post to your profile is public. This data is backed up and stored encrypted.
 
 ### Data Removal
 If you wish to have all your data removed from canine.tools, please contact me at `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)). Please provide me with any data you want removed. Data removal can be access logs and account wipes (if the service has it).
