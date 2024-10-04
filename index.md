@@ -7,7 +7,7 @@ description: "Collection of open source web apps for canines and all!"
 canine.tools is a collection of open source web apps for all to use. We host frontends & services. We are LGBTQ+ friendly and accept all!
 
 #### Frontends
-Private frontends to access services, most of them are proxied through this server. This means the service it replaces never sees you coming!
+Private frontends to access services. All services below are proxied. This means the service it replaces never sees you coming!
 <div class="card-group">
     <div class="card">
         <div class="card-container">
@@ -21,7 +21,7 @@ Private frontends to access services, most of them are proxied through this serv
     <div class="card">
         <div class="card-container">
             <h4>BiblioReads</h4>
-            <p>Private frontend for Goodreads, proxies everything.</p>
+            <p>Private frontend for Goodreads.</p>
             <div class="card-buttons">
                 <a href="https://read.canine.tools/"><button>Access</button></a><a href="https://github.com/nesaku/BiblioReads"><button>Source</button></a>
             </div>
@@ -39,7 +39,7 @@ Private frontends to access services, most of them are proxied through this serv
     <div class="card">
         <div class="card-container">
             <h4>AnonymousOverflow</h4>
-            <p>Private frontend for StackOverflow, proxies everything.</p>
+            <p>Private frontend for StackOverflow.</p>
             <div class="card-buttons">
                 <a href="https://overflow.canine.tools/"><button>Access</button></a><a href="https://github.com/httpjamesm/AnonymousOverflow"><button>Source</button></a>
             </div>
@@ -48,7 +48,7 @@ Private frontends to access services, most of them are proxied through this serv
     <div class="card">
         <div class="card-container">
             <h4>SafeTwitch</h4>
-            <p>Private frontend for Twitch, proxies everything.</p>
+            <p>Private frontend for Twitch.</p>
             <div class="card-buttons">
                 <a href="https://safetwitch.canine.tools/"><button>Access</button></a><a href="https://codeberg.org/SafeTwitch/safetwitch"><button>Source</button></a>
             </div>
@@ -57,7 +57,7 @@ Private frontends to access services, most of them are proxied through this serv
     <div class="card">
         <div class="card-container">
             <h4>rimgo</h4>
-            <p>Private frontend for Imgur, proxies everything.</p>
+            <p>Private frontend for Imgur.</p>
             <div class="card-buttons">
                 <a href="https://rimgo.canine.tools/"><button>Access</button></a><a href="https://codeberg.org/rimgo/rimgo"><button>Source</button></a>
             </div>
@@ -66,7 +66,7 @@ Private frontends to access services, most of them are proxied through this serv
     <div class="card">
         <div class="card-container">
             <h4>Quetre</h4>
-            <p>Private frontend for Quora, proxies everything.</p>
+            <p>Private frontend for Quora.</p>
             <div class="card-buttons">
                 <a href="https://quetre.canine.tools/"><button>Access</button></a><a href="https://github.com/zyachel/quetre"><button>Source</button></a>
             </div>
@@ -107,7 +107,7 @@ Different tools and services that aren't a frontend to another service.
     <div class="card">
         <div class="card-container">
             <h4>Chibisafe</h4>
-            <p>File uploader and host. Invite only for the time being.</p>
+            <p>File uploader and host, mostly for ShareX. Requires an invite to join.</p>
             <div class="card-buttons">
                 <a href="https://safe.canine.tools/"><button>Access</button></a><a href="https://github.com/chibisafe/chibisafe"><button>Source</button></a>
             </div>
@@ -152,7 +152,7 @@ Different tools and services that aren't a frontend to another service.
     <div class="card">
         <div class="card-container">
             <h4>Vaultwarden</h4>
-            <p>Self-hosted Bitwarden instance. Invite only for the time being.</p>
+            <p>Self-hosted Bitwarden instance. Requires an invite to join.</p>
             <div class="card-buttons">
                 <a href="https://vault.canine.tools/"><button>Access</button></a><a href="https://github.com/dani-garcia/vaultwarden"><button>Source</button></a>
             </div>
@@ -164,6 +164,15 @@ Different tools and services that aren't a frontend to another service.
             <p>To-do tracker and organizer. Not end-to-end encrypted.</p>
             <div class="card-buttons">
                 <a href="https://vikunja.canine.tools/"><button>Access</button></a><a href="https://kolaente.dev/vikunja/vikunja"><button>Source</button></a>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-container">
+            <h4>LinkStack</h4>
+            <p>A private & open-source link management platform. Requires verification after account creation.</p>
+            <div class="card-buttons">
+                <a href="https://link.canine.tools/"><button>Access</button></a><a href="https://github.com/LinkStackOrg/LinkStack"><button>Source</button></a>
             </div>
         </div>
     </div>
