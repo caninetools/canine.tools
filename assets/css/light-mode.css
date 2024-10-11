@@ -5,4 +5,8 @@
     .menu-toggle {
         background-color: #555;
     }
+    .card {
+        color: black;
+        background-color: #F6F8FA;
+    }
 }
