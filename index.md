@@ -80,7 +80,7 @@ Different tools and services that aren't a frontend to another service.
     <div class="card">
         <div class="card-container">
             <h4>cobalt</h4>
-            <p>Fast & simple social media downloader.</p>
+            <p>Fast & simple social media downloader. BEHIND CLOUDFLARE FOR THE TIME BEING!</p>
             <div class="card-buttons">
                 <a href="https://cobalt.canine.tools/"><button>Access</button></a><a href="https://github.com/imputnet/cobalt"><button>Source</button></a>
             </div>
