@@ -174,3 +174,13 @@ a button:hover {
 .icon {
     margin-bottom: 0;
 }
+.badge {
+    text-align: center;
+    margin-top: 50px;
+}
+.abusebadge {
+    width: 374px;
+    background: white;
+    padding: 5px;
+    color: white;
+}
