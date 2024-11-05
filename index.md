@@ -72,6 +72,24 @@ Private frontends to access services. All services below are proxied. This means
             </div>
         </div>
     </div>
+    <div class="card">
+        <div class="card-container">
+            <h4>Binternet</h4>
+            <p>Private frontend for Pinterest image searching.</p>
+            <div class="card-buttons">
+                <a href="https://binternet.canine.tools/"><button>Access</button></a><a href="https://github.com/Ahwxorg/binternet/"><button>Source</button></a>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-container">
+            <h4>priviblur</h4>
+            <p>Private frontend for Tumblr.</p>
+            <div class="card-buttons">
+                <a href="https://priviblur.canine.tools/"><button>Access</button></a><a href="https://github.com/syeopite/priviblur"><button>Source</button></a>
+            </div>
+        </div>
+    </div>
 </div>
 
 #### Services
