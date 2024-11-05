@@ -4,6 +4,11 @@ title: "News"
 description: "canine.tools news & updates."
 permalink: /news/
 ---
+### November 5, 2024
+Earlier today, there was an insane amount of requests to the SearXNG instance. Turns out, it was another DDoS attempt! They used over 13k IP addresses, and did not stop. I've harden the instance searching a bit, sorry if you get blocked! Wait a few minutes.
+
+I've posted the IP ranges [here](https://paste.canine.tools/?5c780a84ba6faa4d#Fu7iav8XAbFnmULGuW2kDCYoUS84RcqaiJxLjGocxi6L), I will most likely report them to the hosting companies since this was super annoying. If your IPs is one of these, sorry!
+
 ### September 30, 2024
 Small but noticeable change, there is a new logo! The icon/favicon for canine.tools comes from <a href="https://mutant.tech/">Mutant Standard emoji</a>, which are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International</a>. Please give them some love and support.
 
