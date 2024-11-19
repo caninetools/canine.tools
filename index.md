@@ -197,7 +197,7 @@ Different tools and services that aren't a frontend to another service.
 </div>
 
 ### Contact
-The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)). You can also contact me on <a rel="me" href="https://bark.lgbt/@caninetools">Mastodon</a>.
+The sole maintainer of caine.tools is [hyperdefined](https://hyper.lol). You can email me here: `hyper@canine.tools` ([PGP key]({{ site.url }}/assets/hyper@canine.tools.asc)). You can also contact me on <a rel="me" href="https://bsky.app/profile/canine.tools">Bluesky</a>.
 
 <div class="badge">
 <a href="https://www.abuseipdb.com/user/105937" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
