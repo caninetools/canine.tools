@@ -179,7 +179,7 @@ Different tools and services that aren't a frontend to another service.
     <div class="card">
         <div class="card-container">
             <h4>Vaultwarden</h4>
-            <p>Self-hosted Bitwarden instance. Requires an invite to join.</p>
+            <p>Self-hosted Bitwarden instance.</p>
             <div class="card-buttons">
                 <a href="https://vault.canine.tools/"><button>Access</button></a><a href="https://github.com/dani-garcia/vaultwarden"><button>Source</button></a>
             </div>
