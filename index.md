@@ -90,6 +90,15 @@ Private frontends to access services. All services below are proxied. This means
             </div>
         </div>
     </div>
+    <div class="card">
+        <div class="card-container">
+            <h4>libremdb</h4>
+            <p>Private frontend for IMDb.</p>
+            <div class="card-buttons">
+                <a href="https://libremdb.canine.tools/"><button>Access</button></a><a href="https://github.com/zyachel/libremdb"><button>Source</button></a>
+            </div>
+        </div>
+    </div>
 </div>
 
 #### Services
