@@ -20,6 +20,7 @@
 
 title: canine.tools
 url: "https://canine.tools" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /news/:title
 
 plugins:
   - jekyll-sitemap

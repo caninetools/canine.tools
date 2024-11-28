@@ -23,3 +23,13 @@ This server has protections for all services to prevent bots & abuse.
 You can't trust me 100%. I follow best practices and try my best to make everything private. Be cautious when using services with personal information. I will never intentionally leak anyone's data, unless you're being malicious.
 
 If you need to host sensitive text or files, encrypt them before publishing them.
+
+### Badges
+<a href="https://canine.tools" class="badge">
+	<img src="{{ site.url }}/assets/images/canine.tools.dark.png" alt="canine.tools badge (dark)">
+</a>
+<a href="https://canine.tools" class="badge">
+	<img src="{{ site.url }}/assets/images/canine.tools.light.png" alt="canine.tools badge (light)">
+</a>
+
+Want to spread our services? If your site features badges, add ours! These were created by [lostdusty](https://lostdusty.dev.br/).
