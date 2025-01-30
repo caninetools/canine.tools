@@ -185,3 +185,17 @@ a button:hover {
     padding: 5px;
     color: white;
 }
+
+hr {
+    border-image: linear-gradient(
+            to right,
+            red,
+            orange,
+            yellow,
+            green,
+            blue,
+            indigo,
+            violet
+        )
+        1;
+}

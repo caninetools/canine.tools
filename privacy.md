@@ -6,6 +6,8 @@ permalink: /privacy/
 ---
 These are terms users must follow when accessing any services provided by canine.tools. This was last updated 10/04/2024. Most of this was taken from [tux.pizza](https://tux.pizza).
 
+---
+
 ### tl;dr
 You are responsible for all content you share. You hold the rights to the content. By submitting content to canine.tools, you give us the right to display and distribute it for that application. You are responsible for the legality of your content. The data we store is only needed for services to run. NGINX logs collect what IP address visits what site. The content itself in each application is private. These logs are rotated and deleted once a week. No data is shared with other parties.
 
