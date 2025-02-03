@@ -4,7 +4,7 @@ title: "Privacy Policy"
 description: "Privacy policy information about canine.tools services."
 permalink: /privacy/
 ---
-These are terms users must follow when accessing any services provided by canine.tools. This was last updated 10/04/2024. Most of this was taken from [tux.pizza](https://tux.pizza).
+These are terms users must follow when accessing any services provided by canine.tools. This was last updated 02/02/2025. Most of this was taken from [tux.pizza](https://tux.pizza).
 
 ---
 
@@ -28,7 +28,7 @@ In no event will canine.tools be liable to you or any third party for any specia
 ---
 
 ### Your Data
-On this site only, we utilize [Umami](https://umami.is/) (self hosted) for analytics. Umami does not require any type of cookies. This is used to analyze how many users visit the home site. These analytics are NOT included in any service.
+On this site only, we utilize [Plausible](https://plausible.io/) (self hosted) for analytics. No cookies and fully compliant with GDPR, CCPA and PECR. This is used to analyze how many users visit the home site. This analytics are only included in the cobalt service, but can be disabled in the settings.
 
 Other data being collected is via NGINX, our server software. This data includes your IP address, user agent, referrer, status codes and what pages you visit. This data is not accessible via outside the owner of canine.tools. Logs are rotated and deleted once a week. This data is used for analytics & security.
 
