@@ -8,11 +8,7 @@ permalink: /about/
 canine.tools is a collection of open source and private frontends and services. canine.tools is furry fandom themed. We are LGBTQ+ friendly and accept all! It originally start in June of 2023 as fluffy.tools. I decided to start the project up again around July of 2024.
 
 ### Server Specs & Information
-This server is located in the United States, specifically east coast. The main IPs of the server are `45.90.12.117` and `2a0b:64c0:2::7e`. This server is powered by [RoyaleHosting](https://royalehosting.net/).
-* Debian 12
-* Intel Xeon Gold 6152 (2.095GHz)
-* 10GB Ram
-* 5Gbit connection
+This server is located in the United States, specifically east coast. The main IPs of the server are `15.204.224.249` and `2604:2dc0:101:200::5427`. This server is powered by [OVH](https://us.ovhcloud.com/).
 
 Backups are done every hour and stored encrypted offsite. You can run a [speedtest](https://speedtest.canine.tools) from you to the server to see your connection to the server. It's not 100% accurate, but it exists.
 
