@@ -22,16 +22,6 @@ export PATH="$HOME/gems/bin:$PATH"
 # Set the target environment
 export JEKYLL_ENV=production
 echo "Running: $JEKYLL_ENV"
-
-# Pull the latest changes from the repository
-git_output=$(git pull)
-
-# Check if the output of git pull contains "Already up to date"
-if [[ "$git_output" == *"Already up to date."* ]]; then
-    echo "No changes detected. Exiting script."
-    exit 0
-fi
-
-# Continue with the build process if changes are detected
+git pull
 bundle exec jekyll build
 recursive_minify "_site"
