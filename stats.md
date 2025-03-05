@@ -1,10 +1,14 @@
 ---
 layout: default
-title: "Stats"
+title: "Server Stats"
 description: "canine.tools server stats."
 permalink: /stats/
 ---
-This page details the server's stats for fun. Graphs are made with vnstati and RRDtool. The backend that returns the images (`api.canine.tools`) is a simple python web server.
+This page details the server's stats for fun. CPU & Memory graphs are made with a Python script & Netdata. Network information is made using vnstati.
+
+The backend that returns the images (`api.canine.tools`) is a simple python web server.
+
+---
 
 ### CPU Usage (hourly)
 ![CPU Usage (hourly)](https://api.canine.tools/cpu)
