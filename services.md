@@ -24,7 +24,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 |[Quetre](https://quetre.canine.tools/)|Frontend for Quora|[Source](https://github.com/zyachel/quetre)|
 |[Redlib](https://redlib.canine.tools/)|Frontend for Reddit|[Source](https://github.com/redlib-org/redlib)|
 |[rimgo](https://rimgo.canine.tools/)|Frontend for Imgur|[Source](https://codeberg.org/rimgo/rimgo)|
-|[SafeTwitch](https://rimgo.canine.tools/)|Frontend for Twitch|[Source](https://codeberg.org/SafeTwitch/safetwitch)|
+|[SafeTwitch](https://safetwitch.canine.tools/)|Frontend for Twitch|[Source](https://codeberg.org/SafeTwitch/safetwitch)|
 
 ---
 
