@@ -5,6 +5,8 @@ description: "Frontends & services canine.tools provides."
 ---
 The canine.tools project provides lot of different frontends and services. If you want one requested, contact me!
 
+You can see status for each service at the [status page](https://status.canine.tools). Services will auto-update and restart automatically. If something is down, give it a few minutes!
+
 ---
 
 #### Frontends
