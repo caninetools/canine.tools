@@ -4,7 +4,7 @@ title: "Privacy Policy"
 description: "Privacy policy information about canine.tools services."
 permalink: /privacy/
 ---
-These are terms users must follow when accessing any services provided by canine.tools. This was last updated 03/05/2025. Most of this was taken from [tux.pizza](https://tux.pizza).
+This page details canine.tools privacy policy. This was last updated 03/05/2025. Most of this was taken from [tux.pizza](https://tux.pizza).
 
 ---
 

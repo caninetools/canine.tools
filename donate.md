@@ -4,7 +4,7 @@ title: "Donate"
 description: "Want to support canine.tools services? Here is how!"
 permalink: /donate/
 ---
-Thank you for showing interest in supporting canine.tools! However, we don't take direct donations for the time being. However, please support the creators of the services & frontends you use instead!
+Thank you for showing interest in supporting the canine.tools project! However, we don't take direct donations for the time being. However, please support the creators of the services & frontends you use instead!
 
 Not all services allow donations, but please support the ones that do!
 
