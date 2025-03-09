@@ -1,8 +1,8 @@
 const photos = [
-    { url: siteUrl + "/assets/images/wolves/1.jpg", source: "https://www.flickr.com/photos/tambako/32683132561/in/photostream/", width: "80%" },
-    { url: siteUrl + "/assets/images/wolves/2.jpg", source: "https://www.flickr.com/photos/tambako/53444913294/", width: "80%" },
-    { url: siteUrl + "/assets/images/wolves/3.jpg", source: "https://www.flickr.com/photos/tambako/52617383930/", width: "80%" },
-    { url: siteUrl + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/", width: "80%" }
+    { url: window.siteUrl + "/assets/images/wolves/1.jpg", source: "https://www.flickr.com/photos/tambako/32683132561/in/photostream/", width: "80%" },
+    { url: window.siteUrl + "/assets/images/wolves/2.jpg", source: "https://www.flickr.com/photos/tambako/53444913294/", width: "80%" },
+    { url: window.siteUrl + "/assets/images/wolves/3.jpg", source: "https://www.flickr.com/photos/tambako/52617383930/", width: "80%" },
+    { url: window.siteUrl + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/", width: "80%" }
 ];
 
 function getRandomPhoto() {
