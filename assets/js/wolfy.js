@@ -1,8 +1,8 @@
 const photos = [
-    { url: window.siteUrl + "/assets/images/wolves/1.jpg", source: "https://www.flickr.com/photos/tambako/32683132561/in/photostream/", width: "80%" },
-    { url: window.siteUrl + "/assets/images/wolves/2.jpg", source: "https://www.flickr.com/photos/tambako/53444913294/", width: "80%" },
-    { url: window.siteUrl + "/assets/images/wolves/3.jpg", source: "https://www.flickr.com/photos/tambako/52617383930/", width: "80%" },
-    { url: window.siteUrl + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/", width: "80%" }
+    { url: window.siteUrl + "/assets/images/wolves/1.jpg", source: "https://www.flickr.com/photos/tambako/32683132561/in/photostream/" },
+    { url: window.siteUrl + "/assets/images/wolves/2.jpg", source: "https://www.flickr.com/photos/tambako/53444913294/" },
+    { url: window.siteUrl + "/assets/images/wolves/3.jpg", source: "https://www.flickr.com/photos/tambako/52617383930/" },
+    { url: window.siteUrl + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/" }
 ];
 
 function getRandomPhoto() {
@@ -18,7 +18,7 @@ function displayPhoto() {
     console.log("Selected Photo:", photo.url);
     console.log("Source:", photo.source ? photo.source : "No source available");
 
-    let imgElement = `<img src="${photo.url}" alt="Random Photo" style="width: ${photo.width}; height: auto;">`;
+    let imgElement = `<img src="${photo.url}" alt="Random Wolf">`;
 
     container.innerHTML = photo.source 
         ? `<a href="${photo.source}" target="_blank">${imgElement}</a>` 
