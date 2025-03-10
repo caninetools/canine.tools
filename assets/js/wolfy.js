@@ -2,7 +2,8 @@ const photos = [
     { url: window.location.origin + "/assets/images/wolves/1.jpg", source: "https://www.flickr.com/photos/tambako/32683132561/in/photostream/" },
     { url: window.location.origin + "/assets/images/wolves/2.jpg", source: "https://www.flickr.com/photos/tambako/53444913294/" },
     { url: window.location.origin + "/assets/images/wolves/3.jpg", source: "https://www.flickr.com/photos/tambako/52617383930/" },
-    { url: window.location.origin + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/" }
+    { url: window.location.origin + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/" },
+    { url: window.location.origin + "/assets/images/wolves/5.jpg", source: "https://www.flickr.com/photos/33925611@N08/3399640892/" },
 ];
 
 function getRandomPhoto() {
