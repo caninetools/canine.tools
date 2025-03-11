@@ -36,7 +36,7 @@ Services are other services we provide that are not a frontend.
 |Service|About|Source|
 |---|---|---|
 |[cobalt](https://cobalt.canine.tools)|Fast & simple social media downloader. **Uses Cloudflare.**|[Source](https://github.com/imputnet/cobalt)|
-|[it-tools](https://it-tools.canine.tools)|Collection of misc tools and utilities for anything IT related.|[Source](https://github.com/imputnet/cobalt)|
+|[it-tools](https://it-tools.canine.tools)|Collection of misc tools and utilities for anything IT related.|[Source](https://github.com/CorentinTh/it-tools)|
 |[LinkStack](https://link.canine.tools)|A private & open-source link management platform.|[Source](https://github.com/LinkStackOrg/LinkStack)|
 |[PrivateBin](https://paste.canine.tools)|Encrypted (in the browser) pastebin service.|[Source](https://github.com/PrivateBin/PrivateBin)|
 |[SearXNG](https://search.canine.tools)|Private search engine, uses results from multiple engines.|[Source](https://github.com/searxng/searxng)|
