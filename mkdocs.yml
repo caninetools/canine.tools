@@ -1,0 +1,51 @@
+site_name: canine.tools
+site_url: http://localhost:8000
+site_description: "Collection of open source web apps for canines and all!"
+
+nav:
+  - Home: index.md
+  - About: about/index.md
+  - Donate: donate/index.md
+  - News: blog/index.md
+  - Privacy: privacy/index.md
+  - Services: services/index.md
+  - Stats: stats/index.md
+  - Terms: terms/index.md
+
+repo_name: caninetools/canine.tools
+repo_url: https://github.com/caninetools/canine.tools
+
+copyright: |
+  &copy; canine.tools
+
+plugins:
+  - blog
+
+theme:
+  name: material
+  custom_dir: 'theme'
+  palette:
+    scheme: slate
+    primary: black
+    accent: indigo
+  logo: assets/images/logo.jpg
+  favicon: assets/images/logo.jpg
+  features:
+    - navigation.instant.progress
+    - navigation.tabs
+
+markdown_extensions:
+  - toc
+  - attr_list
+  - md_in_html
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - assets/js/wolfy.js
+  - assets/js/plausible.js
+
+extra_css:
+  - assets/css/custom.css

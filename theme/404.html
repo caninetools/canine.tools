@@ -1,0 +1,15 @@
+{% extends "main.html" %}
+
+{% block content %}
+  <h1>Not Found</h1>
+  <p>Sorry! That page cannot be found.</p>
+
+  <img src="https://canine.tools/assets/images/404.png" alt="404 wolfy">
+  
+  <a href="/" class="md-button">
+    <span class="twemoji">
+        {% include ".icons/octicons/chevron-left-16.svg" %}
+    </span>
+    Back to home
+  </a>
+{% endblock %}
