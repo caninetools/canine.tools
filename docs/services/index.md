@@ -14,7 +14,7 @@ All frontends & services are not modified from their linked source unless specif
 ---
 
 ## Frontends
-Frontends are alternative ways to view a website. These frontends below proxy all traffic through our server. These frontends get the information you need without ads, tracking you, and are faster.
+Frontends are alternative ways to view a website. These frontends below proxy all traffic through our server. These frontends are much faster, don't track you, and have no ads.
 
 You can use the browser extension [LibRedirect](https://libredirect.github.io/) to automatically redirect to these frontends.
 

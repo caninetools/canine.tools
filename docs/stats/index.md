@@ -9,8 +9,6 @@ This page shows the server stats for everyone to see. CPU & Memory graphs are ma
 
 The backend that returns the images (`api.canine.tools`) is a simple python web server.
 
-You can find our stats page [here](https://status.canine.tools).
-
 ---
 
 ### CPU Usage (hourly)
