@@ -21,7 +21,7 @@ copyright: |
 plugins:
   - blog
   - minify:
-      minify_html: false
+      minify_html: true
       minify_js: true
       minify_css: true
 
