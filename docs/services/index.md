@@ -60,6 +60,16 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
     [:octicons-chevron-right-16: Source](https://gitdab.com/cadence/breezewiki)
 
+-   ### :material-microphone-variant: Dumb
+    
+    ----
+    
+    An alternative frontend for Genius.
+    
+    [:octicons-chevron-right-16: Access](https://dumb.canine.tools/)
+
+    [:octicons-chevron-right-16: Source](https://github.com/rramiachraf/dumb)
+
 -   ### :material-movie-open: libremdb
     
     ----
@@ -129,6 +139,26 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     [:octicons-chevron-right-16: Access](https://safetwitch.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://codeberg.org/SafeTwitch/safetwitch)
+
+-   ### :material-music: Tent
+    
+    ----
+    
+    A simple alternative front-end for Bandcamp.
+    
+    [:octicons-chevron-right-16: Access](https://tent.canine.tools/)
+
+    [:octicons-chevron-right-16: Source](https://forgejo.sny.sh/sun/Tent)
+
+-   ### :material-earth: Wikiless
+    
+    ----
+    
+    Wikiless is a free, open-source alternative Wikipedia front-end focused on privacy. The project aims to provide users with a more private and anonymous browsing experience by minimizing data collection and tracking.
+    
+    [:octicons-chevron-right-16: Access](https://wikiless.canine.tools/)
+
+    [:octicons-chevron-right-16: Source](https://github.com/Metastem/wikiless)
 
 </div>
 

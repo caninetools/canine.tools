@@ -4,6 +4,7 @@ const photos = [
     { url: window.location.origin + "/assets/images/wolves/3.jpg", source: "https://www.flickr.com/photos/tambako/52617383930/" },
     { url: window.location.origin + "/assets/images/wolves/4.jpg", source: "https://www.flickr.com/photos/tambako/51334530523/" },
     { url: window.location.origin + "/assets/images/wolves/5.jpg", source: "https://www.flickr.com/photos/33925611@N08/3399640892/" },
+    { url: window.location.origin + "/assets/images/wolves/6.jpg", source: "https://4travel.jp/travelogue/11804723" },
 ];
 
 function getRandomPhoto() {
