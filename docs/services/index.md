@@ -174,7 +174,7 @@ Other services we provide.
     
     ----
     
-    cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense. **Uses Cloudflare.**
+    cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
     
     [:octicons-chevron-right-16: Access](https://cobalt.canine.tools/)
 
