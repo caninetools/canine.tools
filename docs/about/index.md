@@ -16,6 +16,8 @@ This server is located in the United States, specifically east coast. The main I
 
 Backups are done every hour and stored encrypted offsite. You can run a [speedtest](https://speedtest.canine.tools) from you to the server to see your connection to the server. It's not 100% accurate, but it exists.
 
+We also use a rotating proxy service for some of the services we host. This is used to bypass IP restrictions or ratelimits.
+
 ---
 
 ## Can I trust you?

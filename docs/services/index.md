@@ -175,10 +175,12 @@ Other services we provide.
     ----
     
     cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
+
+    Runs a fork with some changes.
     
     [:octicons-chevron-right-16: Access](https://cobalt.canine.tools/)
 
-    [:octicons-chevron-right-16: Source](https://github.com/imputnet/cobalt)
+    [:octicons-chevron-right-16: Source](https://github.com/caninetools/cobalt)
 
 -   ### :material-tools: it-tools
     

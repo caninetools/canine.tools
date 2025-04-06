@@ -35,4 +35,5 @@ Below shows the costs of running canine.tools.
 |OVH Server|VLE-16 Plan. Main server running everything.|~$50/month|
 |Proxy Collection #1|20 IPs, used for bypassing IP bans.|$40/month|
 |Proxy Collection #2|10 IPs, used for bypassing IP bans.|$30/month|
+|Proxy Collection #3|25 IPs, used for bypassing IP bans.|$15/month|
 |Cloudflare R2|Used for backups & some services for storage.|~$5-$7/month|
