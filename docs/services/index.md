@@ -262,4 +262,14 @@ Other services we provide.
 
     [:octicons-chevron-right-16: Source](https://kolaente.dev/vikunja/vikunja)
 
+-   ### :material-code-tags: Wakapi
+    
+    ----
+    
+    WakaTime-compatible backend for coding statistics.
+    
+    [:octicons-chevron-right-16: Access](https://wakapi.canine.tools/)
+
+    [:octicons-chevron-right-16: Source](https://github.com/muety/wakapi)
+
 </div>

@@ -21,6 +21,7 @@ Thank you for showing interest in donating to the canine.tools project! Before d
 |Speedtest|[Donate](https://go.openspeedtest.com/Donate)|
 |Vaultwarden|[Liberapay](https://liberapay.com/dani-garcia) - [PayPal](https://paypal.me/DaniGG) - [GitHub Sponsors](https://github.com/sponsors/dani-garcia)|
 |Vikunja|[Buy Me a Coffee](https://www.buymeacoffee.com/kolaente) - [GitHub Sponsors](https://github.com/sponsors/kolaente) - [Open Collective Sponsor](https://opencollective.com/vikunja)|
+|Wakapi|[Buy Me a Coffee](https://www.buymeacoffee.com/n1try) - [GitHub Sponsors](https://github.com/sponsors/muety) - [Liberapay](https://liberapay.com/muety) - [PayPal](https://paypal.me/ferdinandmuetsch) |
 
 ---
 
