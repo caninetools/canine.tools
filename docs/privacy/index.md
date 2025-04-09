@@ -4,7 +4,7 @@ hide:
 description: "Privacy policy information about canine.tools services."
 icon: "material/eye-off"
 ---
-This page details canine.tools privacy policy. This was last updated 03/05/2025. Most of this was taken from [tux.pizza](https://tux.pizza).
+This page details canine.tools privacy policy. This was last updated 04/09/2025. Most of this was taken from [tux.pizza](https://tux.pizza).
 
 ---
 
@@ -57,6 +57,9 @@ By using the Vaultwarden service, you are providing us with an email and an opti
 
 #### Vikunja
 By using the Vikunja service, you are providing us with an email and an account username. This information is accessible only locally and will never be shared or used out of the context or your account. Data for this service is not end-to-end encrypted, and can be accessed via the local database including Namespaces, Lists, Teams, etc. This data will never be sold or given away to anyone. This data is backed up and stored encrypted offsite.
+
+#### Wakapi
+By using the Wakapi service, you are providing us with an email. You are providing us your coding languages, project names, program names, and usage. This data is only public if you enable to be on leaderboards. This data is backed up and stored encrypted offsite.
 
 ---
 
