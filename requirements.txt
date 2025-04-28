@@ -2,3 +2,4 @@ mkdocs-material==9.6.10
 mkdocs-rss-plugin==1.17.1
 mkdocs-glightbox==0.4.0
 mkdocs-minify-plugin==0.8.0
+mkdocs-glightbox==0.1.0
