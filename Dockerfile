@@ -9,9 +9,13 @@ WORKDIR /usr/src/app
 # copy files
 COPY . .
 
-# install things we need
+# install things we need & build
 RUN pip install --no-cache-dir -r requirements.txt
+RUN mkdocs build
 
-# run the site
-EXPOSE 8000
-CMD ["mkdocs", "serve", "--dev-addr=0.0.0.0:8000", "--no-livereload"]
+FROM caddy:alpine
+
+COPY --from=mkdocs-builder /usr/src/app/site /usr/share/caddy
+COPY Caddyfile /etc/caddy/Caddyfile
+
+EXPOSE 80
