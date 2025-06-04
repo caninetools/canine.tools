@@ -1,4 +1,4 @@
-FROM python:3.13-slim
+FROM python:3.13-slim AS mkdocs-builder
 
 ENV PYTHONUNBUFFERED=1 \
     PIP_NO_CACHE_DIR=off \
