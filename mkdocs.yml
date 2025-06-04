@@ -1,5 +1,5 @@
 site_name: canine.tools
-site_url: http://localhost:8000
+site_url: https://canine.tools
 site_description: "Collection of open source web apps for canines and all!"
 
 nav:
@@ -25,7 +25,9 @@ plugins:
       minify_html: true
       minify_js: true
       minify_css: true
-
+  - redirects:
+      redirect_maps:
+        'stats/index.md': 'https://status.canine.tools'
 theme:
   name: material
   custom_dir: 'theme'
