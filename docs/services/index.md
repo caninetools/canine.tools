@@ -192,6 +192,16 @@ Other services we provide.
 
     [:octicons-chevron-right-16: Source](https://github.com/CorentinTh/it-tools)
 
+-   ### :material-poll: Plausible
+    
+    ----
+    
+    Plausible is intuitive, lightweight and open source web analytics. No cookies and fully compliant with GDPR, CCPA and PECR.
+    
+    [:octicons-chevron-right-16: Access](https://plausible.canine.tools/)
+
+    [:octicons-chevron-right-16: Source](https://github.com/plausible/analytics)
+
 -   ### :material-keyboard: PrivateBin
     
     ----

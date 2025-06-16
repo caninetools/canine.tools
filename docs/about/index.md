@@ -5,7 +5,7 @@ description: "Information about canine.tools and it's origins."
 icon: "material/information"
 ---
 ## What is canine.tools?
-The canine.tools project is a collection of open source and private frontends and services. canine.tools is furry fandom themed. We are LGBTQ+ friendly and accept all! It originally start in June of 2023 as fluffy.tools. We decided to start the project up again around July of 2024.
+The canine.tools project is a collection of open source and private frontends and services. canine.tools is furry fandom themed. It originally started in June of 2023 as fluffy.tools. It started as a small site to host things for my own use. I find these things useful, and want to share them for anyone to use. It relaunched around a year later in 2024 as canine.tools.
 
 This project focuses on user privacy and providing services for everyone to use. You can read more about our [privacy](https://canine.tools/privacy) and our [terms](https://canine.tools/terms).
 

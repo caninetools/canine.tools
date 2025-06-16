@@ -16,7 +16,7 @@ repo_name: caninetools/canine.tools
 repo_url: https://github.com/caninetools/canine.tools
 
 copyright: |
-  &copy; canine.tools
+  &copy; canine.tools - Happy barking!
 
 plugins:
   - blog
