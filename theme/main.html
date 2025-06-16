@@ -2,36 +2,36 @@
 
 {% block extrahead %}
 {% set title = config.site_name %}
-<link rel="icon" type="image/png" href="https://canine.tools/assets/images/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="https://canine.tools/assets/images/favicon.svg" />
-<link rel="shortcut icon" href="https://canine.tools/assets/images/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="https://canine.tools/assets/images/apple-touch-icon.png" />
-<meta name="apple-mobile-web-app-title" content="canine.tools" />
-<link rel="manifest" href="https://canine.tools/assets/images/site.webmanifest" />
+<link rel="icon" type="image/png" href="{{ config.site_url }}assets/images/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/svg+xml" href="{{ config.site_url }}assets/images/favicon.svg">
+<link rel="shortcut icon" href="{{ config.site_url }}assets/images/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ config.site_url }}assets/images/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="canine.tools">
+<link rel="manifest" href="{{ config.site_url }}assets/images/site.webmanifest">
 <script defer data-domain="canine.tools" src="https://plausible.canine.tools/js/script.js"></script>
-<meta property="twitter:image" content="https://canine.tools/assets/images/wolves/6.jpg">
+<meta property="twitter:image" content="{{ config.site_url }}assets/images/wolves/6.jpg">
 <meta name="twitter:card" content="summary_large_image">
 
 {% if page and page.title and not page.is_homepage %}
-    <meta property="og:title" content="{{ title }} - {{ page.title | striptags }}" />
-    <meta name="twitter:title" content="{{ title }} - {{ page.title | striptags }}" />
+    <meta property="og:title" content="{{ title }} - {{ page.title | striptags }}">
+    <meta name="twitter:title" content="{{ title }} - {{ page.title | striptags }}">
   {% else %}
-    <meta property="og:title" content="{{ title }}" />
-    <meta name="twitter:title" content="{{ title }}" />
+    <meta property="og:title" content="{{ title }}">
+    <meta name="twitter:title" content="{{ title }}">
 {% endif %}
 
-<meta name="theme-color" content="#111111">
+<meta name="theme-color" content="#1e2129">
 
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ page.canonical_url }}">
-<meta property="og:image" content="https://canine.tools/assets/images/wolves/6.jpg">
+<meta property="og:image" content="{{ config.site_url }}assets/images/wolves/6.jpg">
 <meta property="og:image:type" content="image/png" />
 
 {% if page and page.meta and page.meta.description %}
-    <meta property="og:description" content="{{ page.meta.description }}" />
-    <meta name="twitter:description" content="{{ page.meta.description }}" />
+    <meta property="og:description" content="{{ page.meta.description }}">
+    <meta name="twitter:description" content="{{ page.meta.description }}">
   {% else %}
-    <meta property="og:description" content="{{ config.site_description }}" />
-    <meta name="twitter:description" content="{{ config.site_description }}" />
+    <meta property="og:description" content="{{ config.site_description }}">
+    <meta name="twitter:description" content="{{ config.site_description }}">
 {% endif %}
 {% endblock %}

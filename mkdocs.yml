@@ -36,8 +36,7 @@ theme:
     scheme: slate
     primary: black
     accent: indigo
-  logo: assets/images/logo.jpg
-  favicon: assets/images/logo.jpg
+  logo: assets/images/logo-nt.png
   features:
     - navigation.instant.progress
     - navigation.tabs
