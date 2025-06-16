@@ -4,12 +4,14 @@ hide:
 description: "Privacy policy information about canine.tools services."
 icon: "material/eye-off"
 ---
-This page details canine.tools privacy policy. This was last updated May 5, 2025. Most of this was taken from [tux.pizza](https://tux.pizza).
+This page details canine.tools privacy policy. This was last updated June 15, 2025. Most of this was taken from [tux.pizza](https://tux.pizza).
 
 ---
 
 ## tl;dr
-You are responsible for all content you share and hold all rights to it. By submitting content to canine.tools, you give us the right to display and distribute it for that application. You are responsible for the legality of your content. We only store data needed for services to function. NGINX logs collect IP addresses and visited sites; these logs are rotated and deleted weekly. The content in each application is private. Services that require user data (e.g., account sign-ups) keep data local and encrypted, with backups uploaded to Cloudflare R2.
+You are responsible for all content you share and hold all rights to it. By submitting content to canine.tools, you give us the right to display and distribute it for that application. You are responsible for the legality of your content. We only store data needed for services to function. Caddy logs collect IP addresses and visited sites; these logs are rotated and deleted weekly. The content in each application is private. Services that require user data (e.g., account sign-ups) keep data local and encrypted, with backups uploaded to Cloudflare R2.
+
+We will never share your data with other parties.
 
 ---
 
@@ -51,7 +53,7 @@ We also utilize other analytics data through logs. This can include:
 * fail2ban - used for blocking mass requests, failed SSH logins, and more. This data is submitted to [AbuseIPDB](https://www.abuseipdb.com/user/105937). This is being used for security and blocking bad actors.
 
 ### Server Logs
-We use NGINX for our web server. We store logs for each public facing website (anything using the `canine.tools` domain). This data includes your IP address, user agent, referrer, status codes and what pages you visit. This data is not accessible to anyone else. Logs are rotated and deleted once a week. This data is used for analytics & security monitoring.
+We use [Caddy](https://caddyserver.com/) for our web server. We store logs for each public facing website (anything using the `canine.tools` domain). This data includes your IP address, user agent, referrer, status codes and what pages you visit. This data is not accessible to anyone else. Logs are rotated and deleted once a week. This data is used for analytics & security monitoring.
 
 ### Cookies
 Some services may use cookies to store settings and other information (like login sessions). You can disable cookies on your browser if you don't want this information stored.
@@ -78,7 +80,7 @@ Listed below are the different services and what data we collect for it.
 By using the PrivateBin service, you are providing us with content you submit to the site (a "paste"). Each paste is encrypted on your end, and we do not have access to the content of each paste unless you provide the decryption key. We only store the encrypted contents.
 
 #### Chibisafe
-By using the Chibisafe service, you are providing us with a username.
+By using the Chibisafe service, you are providing us with a username.  This information is accessible only locally and will never be shared or used out of the context or your account.
 
 When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse.
 
@@ -89,7 +91,7 @@ By using the Vaultwarden service, you are providing us with an email and an opti
 By using the Vikunja service, you are providing us with an email and an account username. This information is accessible only locally and will never be shared or used out of the context or your account. Data for this service is not end-to-end encrypted, and can be accessed via the local database including Namespaces, Lists, Teams, etc. This data will never be sold or given away to anyone.
 
 #### Wakapi
-By using the Wakapi service, you are providing us with an email. You are providing us your coding languages, project names, program names, and usage. This data is only public if you enable to be on leaderboards.
+By using the Wakapi service, you provide us an email and username to sign up. This information is accessible only locally and will never be shared or used out of the context or your account. When using the service, your coding activity (time spent in projects, coding languages, etc) is tracked and stored locally. This information is yours only. There is an optional leaderboard, but that is disabled by default.
 
 ---
 

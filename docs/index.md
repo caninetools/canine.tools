@@ -10,6 +10,12 @@ Welcome to the canine.tools project! This project is dedicated to hosting public
 
 You can see what services we provide on the [services page](services/index.md).
 
+<div class="badges">
+  <img class="off-glb" src="{{ config.site_url }}/assets/images/badges/badge.png" height="31">
+  <img class="off-glb" src="{{ config.site_url }}/assets/images/badges/twopaws.png" height="31">
+  <img class="off-glb" src="{{ config.site_url }}/assets/images/badges/powered-by-debian.gif" height="31">
+</div>
+
 <div class="center">
     <div id="random-wolf"></div>
 </div>
