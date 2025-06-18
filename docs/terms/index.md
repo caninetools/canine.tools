@@ -5,9 +5,9 @@ hide:
 description: "Rules & terms for canine.tools services."
 icon: "material/file-document-outline"
 ---
-These are terms/rules you must follow when accessing the canine.tools project. We all make mistakes or miss things. If you want to report an issue, please contact us.
+These are terms/rules you must follow when accessing the canine.tools project. I can make mistakes or miss things. If you want to report an issue, please contact me.
 
-These are *general* rules to follow. However, we can make any decisions for content on this site. Please don't be an asshole.
+These are *general* rules to follow. However, I can make any decisions for content on this site. Please don't be an asshole.
 
 If you are seen breaking these rules, you will be blocked from the canine.tools project.
 

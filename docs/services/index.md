@@ -166,7 +166,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
 ## Services
 
-Other services we provide.
+Other services we host.
 
 <div class="grid cards" markdown>
 

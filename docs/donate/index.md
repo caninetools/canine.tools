@@ -11,7 +11,7 @@ If you want to donate to the project directly, there are 2 places you can do so.
 * [Buy Me a Coffee](https://buymeacoffee.com/canine.tools)
 * [Patreon](https://patreon.com/caninetools)
 
-Below shows the costs of running canine.tools. All server costs are provided by us.
+Below shows the costs of running canine.tools. All server costs are provided by us otherwise.
 
 |Expense|Description|Cost|
 |---|---|---|
