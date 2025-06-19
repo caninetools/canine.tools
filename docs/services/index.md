@@ -60,6 +60,8 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
     [:octicons-chevron-right-16: Source](https://gitdab.com/cadence/breezewiki)
 
+     Proxied via [ProtonVPN](https://protonvpn.com/).
+
 -   ### :material-microphone-variant: Dumb
     
     ----
@@ -69,6 +71,8 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     [:octicons-chevron-right-16: Access](https://dumb.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://github.com/rramiachraf/dumb)
+
+     Proxied via [ProtonVPN](https://protonvpn.com/).
 
 -   ### :material-movie-open: libremdb
     
@@ -130,6 +134,8 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
     [:octicons-chevron-right-16: Source](https://codeberg.org/rimgo/rimgo)
 
+    Uses a rotating for proxy for all requests.
+
 -   ### :material-television-classic: SafeTwitch
     
     ----
@@ -181,6 +187,8 @@ Other services we host.
     [:octicons-chevron-right-16: Access](https://cobalt.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://github.com/caninetools/cobalt)
+
+    Uses a rotating for proxy for all requests.
 
 -   ### :material-tools: it-tools
     

@@ -29,6 +29,9 @@ plugins:
   - redirects:
       redirect_maps:
         'stats/index.md': 'https://status.canine.tools'
+  - git-revision-date-localized:
+      enable_creation_date: true
+      enable_git_follow: true
 theme:
   name: material
   custom_dir: 'theme'

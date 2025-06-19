@@ -8,8 +8,8 @@ icon: "material/heart"
 
 If you want to donate to the project directly, there are 2 places you can do so. Donating is not required, but greatly appreciated!
 
-* [Buy Me a Coffee](https://buymeacoffee.com/canine.tools)
-* [Patreon](https://patreon.com/caninetools)
+* [Buy Me a Coffee](https://buymeacoffee.com/canine.tools) - one time
+* [Patreon](https://patreon.com/caninetools) - monthly
 
 Below shows the costs of running canine.tools. All server costs are provided by us otherwise.
 
