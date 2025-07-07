@@ -28,7 +28,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     
     [:octicons-chevron-right-16: Access](https://overflow.canine.tools/)
 
-    [:octicons-chevron-right-16: Source](https://github.com/httpjamesm/AnonymousOverflow)
+    [:octicons-chevron-right-16: Source](https://git.ngn.tf/ngn/anonymous_overflow)
 
 -   ### :material-book-open-variant: BiblioReads
     
@@ -112,7 +112,9 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     
     [:octicons-chevron-right-16: Access](https://quetre.canine.tools/)
 
-    [:octicons-chevron-right-16: Source](https://github.com/zyachel/quetre)
+    [:octicons-chevron-right-16: Source](https://github.com/caninetools/quetre)
+
+    Proxied via [ProtonVPN](https://protonvpn.com/).
 
 -   ### :material-forum: Redlib
     
@@ -133,8 +135,6 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     [:octicons-chevron-right-16: Access](https://rimgo.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://codeberg.org/rimgo/rimgo)
-
-    Uses a rotating for proxy for all requests.
 
 -   ### :material-television-classic: SafeTwitch
     
@@ -164,7 +164,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     
     [:octicons-chevron-right-16: Access](https://wikiless.canine.tools/)
 
-    [:octicons-chevron-right-16: Source](https://github.com/Metastem/wikiless)
+    [:octicons-chevron-right-16: Source](https://github.com/caninetools/Wikiless)
 
 </div>
 
@@ -188,7 +188,7 @@ Other services we host.
 
     [:octicons-chevron-right-16: Source](https://github.com/caninetools/cobalt)
 
-    Uses a rotating for proxy for all requests.
+    Proxied via [ProtonVPN](https://protonvpn.com/).
 
 -   ### :material-tools: it-tools
     
@@ -229,6 +229,8 @@ Other services we host.
     [:octicons-chevron-right-16: Access](https://search.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://github.com/searxng/searxng)
+
+    Proxied via [ProtonVPN](https://protonvpn.com/).
 
 -   ### :material-upload: Send
     
