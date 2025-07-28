@@ -8,6 +8,7 @@ const photos = [
     { url: window.location.origin + "/assets/images/wolves/7.jpg", source: "https://www.flickr.com/photos/layout_nu/6730828759/" },
     { url: window.location.origin + "/assets/images/wolves/8.jpg" },
     { url: window.location.origin + "/assets/images/wolves/9.jpg", source: "https://www.flickr.com/photos/tambako/8700132926" },
+    { url: window.location.origin + "/assets/images/wolves/10.jpg", source: "https://www.flickr.com/photos/kamia_the_wolf/329355648/" }
 ];
 
 function getRandomPhoto() {
