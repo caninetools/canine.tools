@@ -9,7 +9,7 @@ The canine.tools project provides lot of different frontends and services. If yo
 
 You can see status for each service at the [status page](https://status.canine.tools). Services will auto-update and restart automatically. If something is down, give it a few minutes!
 
-All frontends & services are not modified from their linked source unless specified.
+Some frontends & services use a custom fork, but all source code is linked.
 
 ---
 
@@ -60,7 +60,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
     [:octicons-chevron-right-16: Source](https://gitdab.com/cadence/breezewiki)
 
-     Proxied via [ProtonVPN](https://protonvpn.com/).
+    Proxied via [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net).
 
 -   ### :material-microphone-variant: Dumb
     
@@ -72,7 +72,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
     [:octicons-chevron-right-16: Source](https://github.com/rramiachraf/dumb)
 
-     Proxied via [ProtonVPN](https://protonvpn.com/).
+    Proxied via [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net).
 
 -   ### :material-movie-open: libremdb
     
@@ -114,7 +114,7 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
 
     [:octicons-chevron-right-16: Source](https://github.com/caninetools/quetre)
 
-    Proxied via [ProtonVPN](https://protonvpn.com/).
+    Proxied via [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net).
 
 -   ### :material-forum: Redlib
     
@@ -135,6 +135,8 @@ You can use the browser extension [LibRedirect](https://libredirect.github.io/) 
     [:octicons-chevron-right-16: Access](https://rimgo.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://codeberg.org/rimgo/rimgo)
+
+    Proxied via [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net).
 
 -   ### :material-television-classic: SafeTwitch
     
@@ -181,14 +183,12 @@ Other services we host.
     ----
     
     cobalt is a media downloader that doesn't piss you off. it's friendly, efficient, and doesn't have ads, trackers, paywalls or other nonsense.
-
-    Runs a fork with some changes.
     
     [:octicons-chevron-right-16: Access](https://cobalt.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://github.com/caninetools/cobalt)
 
-    Proxied via [ProtonVPN](https://protonvpn.com/).
+    Proxied via [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net).
 
 -   ### :material-tools: it-tools
     
@@ -230,7 +230,7 @@ Other services we host.
 
     [:octicons-chevron-right-16: Source](https://github.com/searxng/searxng)
 
-    Proxied via [ProtonVPN](https://protonvpn.com/).
+    Proxied via [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net).
 
 -   ### :material-upload: Send
     
@@ -291,5 +291,15 @@ Other services we host.
     [:octicons-chevron-right-16: Access](https://wakapi.canine.tools/)
 
     [:octicons-chevron-right-16: Source](https://github.com/muety/wakapi)
+
+-   ### :material-code-tags: Zipline
+    
+    ----
+    
+    A ShareX/file upload server. Currently private, but feel free to [contact us](../about/index.md#contact).
+    
+    [:octicons-chevron-right-16: Access](https://zipline.canine.tools/)
+
+    [:octicons-chevron-right-16: Source](https://github.com/diced/zipline)    
 
 </div>

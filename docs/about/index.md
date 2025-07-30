@@ -7,7 +7,7 @@ icon: "material/information"
 ## What is canine.tools?
 The canine.tools project is a collection of open source and private frontends and services. It originally started in June of 2023 as `fluffy.tools`. It started as a small site to host things for my own use. I find these things useful, and want to share them for anyone to use. It ended up closing sometime later. It relaunched around a year later in 2024 as the canine.tools we love.
 
-I strive for user privacy. You can read more about our [privacy](https://canine.tools/privacy) and our [terms](https://canine.tools/terms).
+I strive for user privacy. You can read more about our [privacy](../privacy/index.md) and our [terms](../terms/index.md).
 
 ---
 
@@ -16,7 +16,7 @@ This server is located in the United States, specifically east coast. The main I
 
 Backups are done every hour and stored encrypted offsite. You can run a [speedtest](https://speedtest.canine.tools) from you to the server to see your connection to the server. It's not 100% accurate, but it exists.
 
-Some frontends & services are proxied through [ProtonVPN](https://protonvpn.com/) to bypass IP blocks from our server. These are listed on the [services page](https://canine.tools/services).
+Some frontends & services are proxied through [ProtonVPN](https://protonvpn.com) or [Mullvad](https://mullvad.net). This is to bypass IP blocks from our server. These are listed on the [services page](../services/index.md).
 
 ---
 

@@ -4,7 +4,7 @@ hide:
 description: "Privacy policy information about canine.tools services."
 icon: "material/eye-off"
 ---
-This page details canine.tools privacy policy. This was last updated June 15, 2025. Most of this was taken from [tux.pizza](https://tux.pizza).
+This page details canine.tools privacy policy. This was last updated July 29, 2025. Most of this was taken from [tux.pizza](https://tux.pizza).
 
 ---
 
@@ -72,36 +72,14 @@ Some services use [Anubis](https://anubis.techaro.lol/), a bot protection system
 
 Anubis uses the information above to generate a secure challenge to help identify real users from automated requests. If a real user passes a challenge, a cookie is set containing a signed token that proves your browser is legitimate. This cookie is only used to prevent repeated challenges. This cookie is used solely for security purposes and does not track you.
 
-### Services & Data
-
-Listed below are the different services and what data we collect for it.
-
-#### PrivateBin
-By using the PrivateBin service, you are providing us with content you submit to the site (a "paste"). Each paste is encrypted on your end, and we do not have access to the content of each paste unless you provide the decryption key. We only store the encrypted contents.
-
-#### Chibisafe
-By using the Chibisafe service, you are providing us with a username.  This information is accessible only locally and will never be shared or used out of the context or your account.
-
-When uploading files, data collected includes: IP address, time uploaded, and the original file name. This data is not shared with any other parties. It's only used to identify who uploaded what files for abuse.
-
-#### Vaultwarden
-By using the Vaultwarden service, you are providing us with an email and an optional account username. This information is accessible only locally and will never be shared or used out of the context or your account. All passwords for this service are hashed, and cannot be reversed. All other account information is encrypted using your password, and cannot be accessed by anyone unless they obtain your password or can decrypt the database.
-
-#### Vikunja
-By using the Vikunja service, you are providing us with an email and an account username. This information is accessible only locally and will never be shared or used out of the context or your account. Data for this service is not end-to-end encrypted, and can be accessed via the local database including Namespaces, Lists, Teams, etc. This data will never be sold or given away to anyone.
-
-#### Wakapi
-By using the Wakapi service, you provide us an email and username to sign up. This information is accessible only locally and will never be shared or used out of the context or your account. When using the service, your coding activity (time spent in projects, coding languages, etc) is tracked and stored locally. This information is yours only. There is an optional leaderboard, but that is disabled by default.
-
 ---
 
 ### Backups
 We utilize server backups for security and safety.
 
-- **Frequency**: Backups are taken at the start of every hour.
-- **Retention**: Only the last 24 hours of backups are kept; older backups are automatically removed.
-- **Storage**: Backups are encrypted locally and uploaded to Cloudflare R2. Only the server administrator has access to these encrypted backups.
-- **Scope**: These backups include: MySQL databases & server configurations.
+- **Frequency**: Backups are taken every hour.
+- **Storage**: Backups are encrypted locally and uploaded to Cloudflare R2.
+- **Scope**: These backups include: All services, various server configurations, and all MySQL databases.
 
 ---
 
